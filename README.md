@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kawoo1 
-- 👀 I’m interested in ... Programming! Hence the reason I am here. My personal interests include playing guitar, working out
+- 👀 I’m interested in ... Programming! Hence the reason I am here. My real name is Kyle and my personal interests include playing guitar, and working out.
 - 🌱 I’m currently learning ... Rust and Information Technology policies and procedures at Arizona State University under the Ira A Fulton Schools of Engineering
 - 💞️ I’m looking to collaborate on ... Anything! I'm real open to oppurtunities so long as there's a target objective and we can work with each other's skillsets
 - 📫 How to reach me ... Via email: kashanah@asu.edu or Via Instagram: kyl3shanahan are the best ways to reach me
